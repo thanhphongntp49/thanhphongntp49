@@ -1,0 +1,18 @@
+D:\LeNguyenQuocVu_17211TT4403\KiemTraGiuaKy_De01\KiemTraGiuaKy_De01\bin\Debug\KiemTraGiuaKy_De01.exe
+D:\LeNguyenQuocVu_17211TT4403\KiemTraGiuaKy_De01\KiemTraGiuaKy_De01\bin\Debug\KiemTraGiuaKy_De01.pdb
+D:\LeNguyenQuocVu_17211TT4403\KiemTraGiuaKy_De01\KiemTraGiuaKy_De01\obj\Debug\KiemTraGiuaKy_De01.Properties.Resources.resources
+D:\LeNguyenQuocVu_17211TT4403\KiemTraGiuaKy_De01\KiemTraGiuaKy_De01\obj\Debug\KiemTraGiuaKy_De01.csproj.GenerateResource.Cache
+D:\LeNguyenQuocVu_17211TT4403\KiemTraGiuaKy_De01\KiemTraGiuaKy_De01\obj\Debug\KiemTraGiuaKy_De01.exe
+D:\LeNguyenQuocVu_17211TT4403\KiemTraGiuaKy_De01\KiemTraGiuaKy_De01\obj\Debug\KiemTraGiuaKy_De01.pdb
+D:\LeNguyenQuocVu_17211TT4403\KiemTraGiuaKy_De01\KiemTraGiuaKy_De01\obj\Debug\KiemTraGiuaKy_De01.frmMain.resources
+D:\LeNguyenQuocVu_17211TT4403\KiemTraGiuaKy_De01\KiemTraGiuaKy_De01\obj\Debug\KiemTraGiuaKy_De01.csprojResolveAssemblyReference.cache
+D:\LeNguyenQuocVu_17211TT4403\KiemTraGiuaKy_De01\KiemTraGiuaKy_De01\obj\Debug\KiemTraGiuaKy_De01.frmHoadon.resources
+D:\KT LTUD\QLBH\KiemTraGiuaKy_De01\KiemTraGiuaKy_De01\obj\Debug\KiemTraGiuaKy_De01.exe
+D:\KT LTUD\QLBH\KiemTraGiuaKy_De01\KiemTraGiuaKy_De01\obj\Debug\KiemTraGiuaKy_De01.pdb
+D:\KT LTUD\QLBH\KiemTraGiuaKy_De01\KiemTraGiuaKy_De01\bin\Debug\KiemTraGiuaKy_De01.exe
+D:\KT LTUD\QLBH\KiemTraGiuaKy_De01\KiemTraGiuaKy_De01\bin\Debug\KiemTraGiuaKy_De01.pdb
+D:\KT LTUD\QLBH\KiemTraGiuaKy_De01\KiemTraGiuaKy_De01\obj\Debug\KiemTraGiuaKy_De01.csprojResolveAssemblyReference.cache
+D:\KT LTUD\QLBH\KiemTraGiuaKy_De01\KiemTraGiuaKy_De01\obj\Debug\KiemTraGiuaKy_De01.frmMain.resources
+D:\KT LTUD\QLBH\KiemTraGiuaKy_De01\KiemTraGiuaKy_De01\obj\Debug\KiemTraGiuaKy_De01.frmHoadon.resources
+D:\KT LTUD\QLBH\KiemTraGiuaKy_De01\KiemTraGiuaKy_De01\obj\Debug\KiemTraGiuaKy_De01.Properties.Resources.resources
+D:\KT LTUD\QLBH\KiemTraGiuaKy_De01\KiemTraGiuaKy_De01\obj\Debug\KiemTraGiuaKy_De01.csproj.GenerateResource.Cache
